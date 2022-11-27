@@ -1,0 +1,11 @@
+*.class
+*.DS_Store
+*.war
+.metadata
+.classpath
+.project
+target/
+.settings/
+src/main/webapp/WEB-INF/classes/
+/.tern-project
+/src/test
